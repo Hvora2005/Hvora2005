@@ -1,5 +1,8 @@
 # 💫 About Me:
-Machine Learning<br>Deep Learning<br>Computer Vision<br>YOLO<br>OpenCV<br>FastAPI<br>Python<br>TensorFlow<br>PyTorch<br>MLOps<br>MLflow<br>Docker<br>SQL<br>PostgreSQL<br>SQLite<br>Data Analytics<br>REST APIs<br>Git<br>GitHub<br>Data Structures & Algorithms
+I am a third-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Sandip University, Nashik. I enjoy building practical AI systems that solve real-world problems by combining Machine Learning, Computer Vision, backend development, and MLOps principles.
+I am continuously expanding my expertise in Deep Learning, Computer Vision, MLOps, Data Engineering, and scalable AI deployment. My goal is to build production-ready AI systems that bridge research with practical industrial applications.
+SKILLS ,Machine Learning,Deep Learning,Computer Vision,YOLO,OpenCV,FastAPI,Python,TensorFlow,PyTorch,MLOps,MLflow,Docker,SQL,PostgreSQL,SQLite,Data Analytics,REST APIs,Git,GitHub
+Data Structures & Algorithms
 
 
 ## 🌐 Socials:
